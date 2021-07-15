@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class algorithmic_question {
 
     public static String compress(String text,int n){
 
@@ -24,9 +24,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String testMsg="aaba kouq bux";
-        testMsg=compress(testMsg,3);
+        String testMsg="onur solmazz";
+        testMsg=compress(testMsg,2);
         System.out.println(testMsg);
+        int a;
 
     }
 }
