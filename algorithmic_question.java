@@ -27,7 +27,7 @@ public class algorithmic_question {
         String testMsg="onur solmazz";
         testMsg=compress(testMsg,2);
         System.out.println(testMsg);
-        int a;
+        
 
     }
 }
